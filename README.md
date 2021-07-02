@@ -1,2 +1,2 @@
 # site-barbearia
-Aula de HMTL
+Revisando HMTL e CSS Básico
